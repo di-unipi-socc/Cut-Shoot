@@ -18,7 +18,7 @@ poetry install
 ```
 
 ## Usage
-Cut&Shoot can be used as a Python library or as a command-line tool. The following example shows how to use Cut&Shoot as a Python library:
+Cut&Shoot can be used as a Python library. The following example shows how to use Cut&Shoot as a Python library:
 ```python
 from run import run
 
