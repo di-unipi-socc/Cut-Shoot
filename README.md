@@ -53,4 +53,3 @@ To run the experiments, execute the following command inside the ./exp folder:
 python exp.py run [config_file]
 ```
 where `config_file` is the path to the configuration file.
-```
